@@ -1,28 +1,26 @@
 # Stopwatch
-A simple and elegant stopwatch web application built using HTML, CSS, and JavaScript. It offers accurate real-time tracking of hours, minutes, seconds, and milliseconds. This project is ideal for beginners looking to understand DOM manipulation and JavaScript timing functions.
+A clean and responsive stopwatch built with HTML, CSS, and JavaScript. Track time down to milliseconds with start, stop, and reset controls — perfect for learning DOM manipulation and JavaScript timers.
 
-Features
+🚀 Features
+Real-time tracking (HH:MM:SS:MS)
 
-Start, stop, and reset functionality
+Start, stop, and reset buttons
 
-Displays time in HH:MM:SS:MS format
+Minimal, stylish UI
 
-Smooth UI with responsive button interactions
+Beginner-friendly code
 
-Clean and minimal design using modern CSS
+🧩 How to Run
+Download or clone this repo
 
-Technologies Used
+Open index.html in your browser
 
-HTML
+Use the buttons to control the stopwatch
 
-CSS
+📁 Files
+index.html – App structure
 
-JavaScript
+styles.css – Styling and layout
 
-How to Use
+index.js – Stopwatch logic
 
-Clone or download this repository.
-
-Open the index.html file in your browser.
-
-Click Start to begin timing, Stop to pause, and Reset to clear the timer.
