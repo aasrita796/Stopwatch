@@ -11,6 +11,7 @@ Smooth UI with responsive button interactions
 Clean and minimal design using modern CSS
 
 Technologies Used
+
 HTML
 
 CSS
@@ -18,6 +19,7 @@ CSS
 JavaScript
 
 How to Use
+
 Clone or download this repository.
 
 Open the index.html file in your browser.
