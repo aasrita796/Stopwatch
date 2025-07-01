@@ -2,6 +2,7 @@
 A simple and elegant stopwatch web application built using HTML, CSS, and JavaScript. It offers accurate real-time tracking of hours, minutes, seconds, and milliseconds. This project is ideal for beginners looking to understand DOM manipulation and JavaScript timing functions.
 
 Features
+
 Start, stop, and reset functionality
 
 Displays time in HH:MM:SS:MS format
